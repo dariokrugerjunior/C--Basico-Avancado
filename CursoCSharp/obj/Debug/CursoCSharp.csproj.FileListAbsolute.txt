@@ -1,0 +1,9 @@
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\CursoCSharp\bin\Debug\CursoCSharp.exe
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\CursoCSharp\bin\Debug\CursoCSharp.pdb
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\CursoCSharp\obj\Debug\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\CursoCSharp\obj\Debug\CursoCSharp.exe
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\CursoCSharp\obj\Debug\CursoCSharp.pdb
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\CursoCSharp\bin\Debug\Encapsulamento.dll
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\CursoCSharp\bin\Debug\Encapsulamento.pdb
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\CursoCSharp\obj\Debug\CursoCSharp.csproj.CopyComplete

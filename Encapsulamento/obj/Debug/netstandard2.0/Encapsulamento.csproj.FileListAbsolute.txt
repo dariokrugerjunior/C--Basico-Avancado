@@ -1,0 +1,10 @@
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.deps.json
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.pdb
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\kruge\Desktop\Coder-C-Sharp\Aluno\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.pdb
