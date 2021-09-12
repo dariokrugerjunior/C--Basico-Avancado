@@ -90,6 +90,7 @@
     <Compile Include="EstruturasDeControle\UsandoContinue.cs" />
     <Compile Include="Excecoes\ExcecoesPersonalizadas.cs" />
     <Compile Include="Excecoes\PrimeiraExcecao.cs" />
+    <Compile Include="Exercicios\Ex1.cs" />
     <Compile Include="Fundamentos\Comentarios.cs" />
     <Compile Include="Fundamentos\Convercoes.cs" />
     <Compile Include="Fundamentos\FormatandoNumero.cs" />

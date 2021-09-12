@@ -9,6 +9,7 @@ using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
 using CursoCSharp.Api;
 using CursoCSharp.TopicosAvancados;
+using CursoCSharp.Exercicios;
 
 namespace CursoCSharp {
     class Program {
@@ -101,9 +102,11 @@ namespace CursoCSharp {
                 {"Nullables - Topicos Avançado", Nullables.Executar},
                 {"Dynamics - Topicos Avançado", Dynamics.Executar},
                 {"Genericos - Topicos Avançado", Genericos.Executar},
+                //Lista de Exercicios
+                {"Infiltração de Annalyn - Exercicios", Ex1.Executar},
 
 
-            }); ;
+            }); ; ;
 
             central.SelecionarEExecutar();
         }
